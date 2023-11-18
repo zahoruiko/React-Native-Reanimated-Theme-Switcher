@@ -26,7 +26,4 @@ yarn start
 ```
 ## Result
 
-### Demo
-
 <img src="https://github.com/zahoruiko/React-Native-Reanimated-Theme-Switcher/blob/main/appImages/video.gif" width="240" />
-
